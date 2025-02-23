@@ -1,0 +1,1 @@
+//WAP to calculate the average of even and odd numbers given by user until user press -1.

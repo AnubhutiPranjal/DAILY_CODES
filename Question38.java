@@ -1,0 +1,1 @@
+//WAP to take input a number from user and print in the form of series
